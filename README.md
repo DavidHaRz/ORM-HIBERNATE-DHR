@@ -12,3 +12,5 @@ En la carpeta "bin/miEmpresa/hibernate" están casi todos los archivos .jar nece
 El otro archivo necesario está en "bin/miEmpresa". El archivo se llama "mysql-connector-j-8.0.33.jar".
 
 El archivo de la base de datos se llama "empresa.sql".
+
+Se ha utilizado jdk-8u202-windows-x64.exe
